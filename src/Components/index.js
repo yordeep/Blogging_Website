@@ -3,6 +3,11 @@ import Footer from "./Footer/Footer"
 import Container from "./Container/Container"
 import Logo from "./Logo"
 import LogoutBtn from "./Header/LogoutBtn"
+import Select from "./Select"
+import PostCard from "./PostCard"
+import Button from "./Button"
+import Input from "./Input"
+import Login from './login'
 
 export {
 
@@ -10,5 +15,10 @@ export {
     Footer,
     Container,
     Logo,
-    LogoutBtn
+    LogoutBtn,
+    Select,
+    Login,
+    PostCard,
+    Button,
+    Input,
 }
